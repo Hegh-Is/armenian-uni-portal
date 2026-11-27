@@ -1,0 +1,27 @@
+:root {
+  /* 60% Crisp White & Ice Canvas */
+  --bg-canvas: #ffffff;
+  --bg-alabaster: #f8fafc;
+
+  /* 30% Structural Blue-Tinted Surfaces & Borders */
+  --surface-glacier: #eff6ff;
+  --surface-mist: #f1f5f9;
+  --border-hairline: #e2e8f0;
+  --border-blue-soft: #bfdbfe;
+
+  /* Text Hierarchy */
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+
+  /* 10% Royal & Academic Blue Accents */
+  --accent-navy: #1e3a8a;
+  --accent-cobalt: #1d4ed8;
+  --accent-cerulean: #0284c7;
+  --accent-hover: #1e40af;
+
+  /* Typography */
+  --font-display: 'Plus Jakarta Sans', 'Noto Sans Armenian', system-ui, sans-serif;
+  --font-body: 'Plus Jakarta Sans', 'Noto Sans Armenian', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
